@@ -2,7 +2,7 @@
 Java Multithreaded Statistics Client Server Application project for EECE 351, Computing Networks and Services course.
 The application offers some statistical functions: average, median, mode, min/max etc.
 
-There are 2 files on for the Client and one for the Server:
+There are 2 files one for the Client and one for the Server:
 
 To run:
 * Open both files in the IDE
